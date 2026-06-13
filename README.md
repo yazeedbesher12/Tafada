@@ -1,4 +1,4 @@
-#A Digital Information Security Guide for Personalized
+# A Digital Information Security Guide for Personalized
 Learning .
 is a comprehensive Arabic “Digital” platform for
 cybersecurity awareness, targeting nonspecialist community members across
